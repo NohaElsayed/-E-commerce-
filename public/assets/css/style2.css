@@ -1,0 +1,39 @@
+/* Begin search category style*/
+ .show{
+    display: none;
+}
+.card{
+
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    }
+.img-cd .card-img-top {
+
+        object-fit: cover;
+        height: 50vh;
+        width: 100%;
+    }
+.single-banner img{
+    height: 50vh;
+    width: 30vw;
+}
+
+
+/* End search category style*/
+.showing-products{
+    display: none;
+}
+.swal-footer {
+
+    text-align: center;
+
+  }
+  .blog-result{
+      display:none;
+      padding: 20px;
+      width: 100%;
+  }
+
